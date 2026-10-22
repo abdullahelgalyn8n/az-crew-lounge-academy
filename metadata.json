@@ -1,0 +1,6 @@
+{
+  "name": "Crew Lounge EGYPT Academy",
+  "description": "Official website for Crew Lounge EGYPT Academy - premier aviation and cabin crew training academy offering accredited 3-month and 1-year programs in Cairo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
